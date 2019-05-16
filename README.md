@@ -1,4 +1,4 @@
-# This is my first ReactSSR Project.
+# This is my first ReactSSR Project with server side rendering.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
